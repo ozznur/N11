@@ -34,6 +34,6 @@ public class BaseTest {
 
     @AfterScenario
     public void tearDown() {
-        getWebDriver().quit();
+        //getWebDriver().quit();
     }
 }
